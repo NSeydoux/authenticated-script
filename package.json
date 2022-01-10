@@ -1,0 +1,16 @@
+{
+  "name": "authenticated-script",
+  "private": "true",
+  "version": "0.0.1",
+  "description": "An authenticated script",
+  "main": "index.mjs",
+  "author": {
+    "name": "Nicolas Ayral Seydoux",
+    "url": "https://solid.zwifi.eu/profile/card#me"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@inrupt/solid-client-authn-node": "^1.11.3",
+    "dotenv-flow": "^3.2.0"
+  }
+}
